@@ -42,8 +42,8 @@ Follow these instructions to get the Network Packet Sniffer Web Application up a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MUKHTAR-02/Network-Packet-Sniffer
-   cd packet-sniffer-web-app
+   git clone https://github.com/Manishnemade12/Network-PacketSniffer.git
+   cd Network-PacketSniffer
 
 2. Install the required dependencies:
       ```bash
